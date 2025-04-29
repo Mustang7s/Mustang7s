@@ -35,18 +35,35 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mustang7s&icon=6&color=0)](https://visitcount.itsvg.in)
 
-### 🔝 Top Contributed Repositories
+
+###📘 Learning Goals
 
 <details>
-  <summary>➕ Click to view all top contributed repositories</summary>
+  <summary>📘 Learning Goals</summary>
 
   <br>
 
-  ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Mustang7s&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+  ### 🌐 Web & Software Development
+  - Master advanced React (hooks, context, performance)
+  - Explore full-stack development with Next.js & Node.js
+  - Build scalable RESTful & GraphQL APIs
+
+  ### ☁️ Cloud & DevOps
+  - Deepen hands-on experience with Azure and AWS services
+  - Learn CI/CD pipeline setup with GitHub Actions & Docker
+  - Implement infrastructure-as-code with Terraform
+
+  ### 🤖 AI/ML & Data
+  - Strengthen foundations in machine learning (with Python, Pandas, scikit-learn)
+  - Train and deploy simple AI models using TensorFlow and FastAPI
+  - Integrate AI with real-world applications (chatbots, predictions, etc.)
+
+  ### 🌱 Sustainability & Innovation
+  - Research eco-efficient system design practices
+  - Build solutions that align with sustainability goals (e.g., energy-aware systems)
+  - Contribute to open-source sustainability-focused tech
 
 </details>
-)
-
 
 
   ## 💰 You can help me by Donating
