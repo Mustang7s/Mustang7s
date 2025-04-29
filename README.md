@@ -36,7 +36,6 @@
 [![](https://visitcount.itsvg.in/api?id=mustang7s&icon=6&color=0)](https://visitcount.itsvg.in)
 
 
-###📘 Learning Goals
 
 <details>
   <summary>📘 Learning Goals</summary>
