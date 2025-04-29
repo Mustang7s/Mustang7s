@@ -1,3 +1,24 @@
+# 💫 Hi 👋, I'm Kemboi Rutto Evans  
+**A passionate Software Developer | Cloud Enthusiast | Sustainability-Driven Innovator from Kenya**
+
+📬 **Email Me:** ruttoevans85@gmail.com – For collaborations, projects, or anything tech-related 😊
+
+---
+
+- 🔭 **I’m currently working on:** Finance-based software applications and sustainable tech systems  
+- 🌱 **I’m currently learning:** Advanced cloud solutions (Azure & AWS), secure systems integration, and AI for impact  
+- 👯 **I’m looking to collaborate on:** Open-source tech, fintech platforms, and sustainability-focused solutions  
+- 🤝 **I’m looking for help with:** Cloud-native projects, scalable backend systems  
+- 💬 **Ask me about:** Software development, database optimization, Power BI, and digital transformation  
+- 📫 **How to reach me:** [ruttoevans85@gmail.com](mailto:ruttoevans85@gmail.com)  
+- 😄 **Fun fact:** I blend tech and creativity to build meaningful, sustainable digital experiences 🌱💡  
+- ⚡ **Quote I live by:** _"Build with purpose, create with impact."_
+
+---
+
+🌐 **Portfolio:** [mustang7s.github.io/Personal_Portfolio](https://mustang7s.github.io/Personal_Portfolio)   
+💻 **GitHub:** [github.com/Mustang7s](https://github.com/Mustang7s)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Prince0fcomputers) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rutto-evans-4b28b9218) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/www.pinterest.com/ruttoevans) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mustang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustangmr64@gmail.com) 
@@ -15,8 +36,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mustang7s&icon=6&color=0)](https://visitcount.itsvg.in)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mustang7s&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ruttoevans85@gmail.com) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with mustang7s ( https://github.com/Mustang7s ) -->
