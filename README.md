@@ -37,7 +37,15 @@
 
 ### 🔝 Top Contributed Repositories
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Mustang7s&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<details>
+  <summary>➕ Click to view all top contributed repositories</summary>
+
+  <br>
+
+  ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Mustang7s&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</details>
+)
 
 
 
