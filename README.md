@@ -36,7 +36,8 @@
 [![](https://visitcount.itsvg.in/api?id=mustang7s&icon=6&color=0)](https://visitcount.itsvg.in)
 
 ### 🔝 Top Contributed Repositories
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Mustang7s&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Kemboi's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Mustang7s&show_icons=true&theme=tokyonight&hide=contribs&count_private=true)
+ontributions=true)
 
 
   ## 💰 You can help me by Donating
